@@ -1,0 +1,94 @@
+@import url(https://fonts.googleapis.com/css?family=Spicy+Rice:regular);
+
+div
+{
+    background-color: rgba(102, 206, 206, 0.656);
+    margin: auto;
+    border-radius: 10px;
+    
+}
+img
+{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 820px; 
+    top: 115px;
+}
+#div_2 
+{
+     background-color: orangered;
+     width: 400px;
+     height: 30px;
+     border-radius: 0px;
+     position: absolute;
+     left: 450px;
+     top: 40px;  
+     font-size: 20px;  
+     color: aliceblue;
+     margin: 0;
+     padding-top: 13px;
+     padding-left: 100px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+}
+@import url(https://fonts.googleapis.com/css?family=Vina+Sans:regular);
+input
+{
+    background-color: aquamarine;
+    border-color: rgba(44, 177, 133, 0.1);
+    position: absolute;
+    top: 75px;
+    left: 100px;
+    width: 240px;
+    height: 30px;
+    
+    
+}
+h1
+{
+    color: rgb(13, 92, 67);
+    font-size: 13px;
+
+}
+h2
+{
+    color: rgb(13, 92, 67);
+    font-size: 13px;
+    position: absolute;
+    top: 105px;
+
+}
+#input_1
+{
+    position: absolute;
+    top: 130px;
+}
+#input_2
+{
+   position: absolute;
+   top: 200px;
+   width: 100px;
+}
+h3{
+    color: rgb(13, 92, 67);
+    font-size: 13px;
+    position: absolute;
+    top: 160px;
+}
+h4
+{
+    color: rgb(13, 92, 67);
+    font-size: 13px;
+    position: absolute;
+    top: 155px;
+    left: 250px;
+}
+#input_3
+{
+    position: absolute;
+   top: 200px;
+   width: 100px;
+   left: 250px;
+   
+}
